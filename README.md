@@ -1,1 +1,1 @@
-# Linking base repo
+https://omiddeiminiyat.github.io/jsLinking/
