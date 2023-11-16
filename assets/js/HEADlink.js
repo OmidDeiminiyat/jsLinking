@@ -10,6 +10,6 @@ const myHiddenElement = document.getElementById('hidden');
 
 console.warn(myHiddenElement.innerText);
 
-
+console.log('Jeg er Omid');
 
 console.groupEnd()

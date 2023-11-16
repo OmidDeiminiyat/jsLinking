@@ -13,4 +13,8 @@ console.warn(HiddenElement.innerText);
 
 
 
+console.info('hej fra et script tag');
+const opgave = document.getElementById('Omid');
+console.warn(opgave.innerText);
+
 console.groupEnd()
